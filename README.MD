@@ -1,5 +1,3 @@
-Hay, This Is roman Hossain. I'm from Dhaka Bangladesh. I'm a Webdeveloper. This is may Matrimonial bio-data.
+This is a simple try at creating a biodata with a portfolio based theme :)
 
-It can be seen at:
-
-https://romanofficial.github.io/MatrimonialBiodata/
+https://raghuvaryas98.github.io/raghuvarya-biodata.github.io/
